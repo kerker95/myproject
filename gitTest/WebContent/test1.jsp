@@ -9,7 +9,10 @@
 <body>
 <h1>test1.jsp</h1>
 <h2>수정</h2>
+<<<<<<< HEAD
 <h3>client</h3>
+=======
+>>>>>>> refs/remotes/choose_remote_name/master
 <h3>server</h3>
 </body>
 </html>
